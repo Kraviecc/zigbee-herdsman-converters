@@ -2359,6 +2359,7 @@ module.exports = [
         fingerprint: tuya.fingerprint('TS0601', [
             '_TZE200_bvu2wnxz', /* model: 'ME167', vendor: 'Avatto' */
             '_TZE200_6rdj8dzm', /* model: 'ME167', vendor: 'Avatto' */
+            '_TZE200_gd4rvykv', /* vendor: 'Sanico */
         ]),
         model: 'TS0601_thermostat_3',
         vendor: 'TuYa',
